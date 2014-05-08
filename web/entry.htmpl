@@ -1,0 +1,6 @@
+<div class="level level-%level%">
+    <p class="entry-text">%text%</p>
+    %if_quote%
+    <p class="quote"><img src="quote.jpg" class="drop-quote" width="3em" height="2em" />%quote%</p>
+    %fi_quote%
+</div>
